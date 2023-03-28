@@ -1,3 +1,4 @@
+pip install fiona
 import base64
 import fiona
 import folium
